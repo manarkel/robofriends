@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/manarkel/robofriends.git/static/css/main.bcdbab18.chunk.css",
+    "main.js": "/manarkel/robofriends.git/static/js/main.b64336ad.chunk.js",
+    "main.js.map": "/manarkel/robofriends.git/static/js/main.b64336ad.chunk.js.map",
+    "runtime-main.js": "/manarkel/robofriends.git/static/js/runtime-main.aee0a93f.js",
+    "runtime-main.js.map": "/manarkel/robofriends.git/static/js/runtime-main.aee0a93f.js.map",
+    "static/css/2.31461e4f.chunk.css": "/manarkel/robofriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b7243072.chunk.js": "/manarkel/robofriends.git/static/js/2.b7243072.chunk.js",
+    "static/js/2.b7243072.chunk.js.map": "/manarkel/robofriends.git/static/js/2.b7243072.chunk.js.map",
+    "static/js/3.81204a77.chunk.js": "/manarkel/robofriends.git/static/js/3.81204a77.chunk.js",
+    "static/js/3.81204a77.chunk.js.map": "/manarkel/robofriends.git/static/js/3.81204a77.chunk.js.map",
+    "index.html": "/manarkel/robofriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/manarkel/robofriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.bcdbab18.chunk.css.map": "/manarkel/robofriends.git/static/css/main.bcdbab18.chunk.css.map",
+    "static/js/2.b7243072.chunk.js.LICENSE.txt": "/manarkel/robofriends.git/static/js/2.b7243072.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/manarkel/robofriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aee0a93f.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.b7243072.chunk.js",
+    "static/css/main.bcdbab18.chunk.css",
+    "static/js/main.b64336ad.chunk.js"
+  ]
+}
